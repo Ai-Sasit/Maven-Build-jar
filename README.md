@@ -2,4 +2,5 @@
 create java project and jar file using Maven
 
 - Clean build project
-  - mvnw packge
+  - use Netbean to build
+  - target is "{name}-used.jar"
